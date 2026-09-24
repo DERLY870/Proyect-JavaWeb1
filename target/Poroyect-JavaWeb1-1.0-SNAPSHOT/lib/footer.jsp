@@ -1,5 +1,5 @@
 <footer>
-    <p>Todos los derechos reservados  @APO- 2026- Autor DerlyCordoba</p>
+    <p>Todos los derechos reservados  @APO- 2026- Desarrolladora DerlyCordoba</p>
 </footer>        
     </body>
 </html>
